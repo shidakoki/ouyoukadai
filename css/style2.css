@@ -1,0 +1,187 @@
+body {
+  margin: 0;
+  background-color: white;
+　font-size: 14px;
+　color: #333;
+}
+
+h1,h2,h3,h3,h4,h5 {
+  margin: 0 0 10px 0;
+  padding: 0;
+}
+
+headr {
+  margin-top: 20px;
+}
+
+.container {
+  width: 900px;
+  margin: 0 auto 10px auto;
+  text-align: center;
+}
+
+.header-title-area {
+  margin-top:40px;
+  margin-bottom: 30px;
+}
+
+.logo {
+  font-size: 32px;
+  font-family:sans-serif;
+}
+
+.header-navigation {
+  padding: 20px 0;
+  width: 900px;
+  background-color: black;
+}
+
+.header-navigation:after {
+  clear: both;
+  display: block;
+  content: " ";
+}
+
+.header-navigation li {
+  float: left;
+  padding: 0 30px;
+  text-align: center;
+  list-style-type: none;
+}
+
+.header-navigation li a {
+  color: white;
+  text-decoration: none;
+}
+
+.text-title {
+  font-size: 30px;
+  margin-top: 0;
+  margin-bottom: 20px;
+  text-align: left;
+  border-bottom: solid 1px #DCDCDC;
+}
+
+.card-contents {
+  padding: 10px;
+  display: block;
+  margin-bottom: 20px;
+  background-color: white;
+}
+
+.left-contents {
+  width: 580px;
+  margin-right: 20px;
+  float: left;
+}
+
+.right-contents {
+  width: 300px;
+  float: left;
+  
+}
+
+.blog_1 {
+  display: flex;
+}
+
+.blog_2 {
+  display: flex;
+}
+
+.blog_3 {
+  display: flex;
+}
+
+.sampleblog_1 {
+  display: flex;
+}
+
+.sampleblog_2 {
+  display: flex;
+}
+
+.sampleblog_3 {
+  display: flex;
+}
+
+.sampleblog_4 {
+  display: flex;
+}
+
+.sampleblog_5 {
+  display: flex;
+}
+
+.copyright {
+  color: #777;
+  text-align: center;
+}
+
+.main:after {
+  clear: both;
+  display: block;
+  content: " ";
+  border-bottom: solid 1px #DCDCDC;
+}
+
+.blog-image {
+  width: 100%;
+  height:100%;
+  
+}
+
+.b-image {
+  background-color: #A9A9A9;
+}
+
+
+.blog_item {
+  margin: 10px;
+}
+
+.sampleblog-image {
+  width: 44px;
+  height: 35px;
+}
+
+.day {
+  text-align: left;
+  margin:0 auto auto auto;
+  padding-left:5px
+}
+
+.blog-title {
+  color: #6495ED;
+  text-align: left;
+  font-size: 22px;
+  padding-left:5px
+}
+
+.blog-title2 {
+  text-align: left;
+  font-size: 12px;
+  color: #A9A9A9;
+  padding-left:5px
+}
+
+.day2 {
+  text-align: left;
+  margin:0 auto auto auto;
+  font-size:10px;
+  color: #A9A9A9;
+  padding-left:5px
+}
+
+.sampleblog-title {
+  color: #6495ED;
+  text-align: left;
+  font-size:10px;
+  padding-left:5px
+}
+
+.blog_item2 {
+  margin: 10px;
+  height: 35px;
+}
+
